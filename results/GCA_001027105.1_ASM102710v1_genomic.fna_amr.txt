@@ -1,0 +1,23 @@
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	CP011526.1	102274	103623	+	tet(38)	tetracycline efflux MFS transporter Tet(38)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	EXACTX	450	450	100.00	100.00	450	WP_001100300.1	tetracycline efflux MFS transporter Tet(38)	NA	NA
+NA	CP011526.1	333082	334434	+	mepA	multidrug efflux MATE transporter MepA	plus	AMR	AMR	TETRACYCLINE	TIGECYCLINE	EXACTX	451	451	100.00	100.00	451	AAU95768.1	multidrug efflux MATE transporter MepA	NA	NA
+NA	CP011526.1	367612	368220	+	selX	staphylococcal enterotoxin-like toxin X	plus	VIRULENCE	VIRULENCE	NA	NA	BLASTX	203	203	100.00	96.55	203	AEI60187.1	staphylococcal enterotoxin-like toxin X	NA	NA
+NA	CP011526.1	1630685	1631434	-	sel26	staphylococcal enterotoxin type 26	plus	VIRULENCE	VIRULENCE	NA	NA	BLASTX	250	250	100.00	96.80	250	KAG18833.1	staphylococcal enterotoxin type 26	NA	NA
+NA	CP011526.1	1862108	1862821	-	splE	serine protease SplE	plus	VIRULENCE	VIRULENCE	NA	NA	EXACTX	238	238	100.00	100.00	238	ABD30999.1	serine protease SplE	NA	NA
+NA	CP011526.1	1864599	1865318	-	splB	serine protease SplB	plus	VIRULENCE	VIRULENCE	NA	NA	EXACTX	240	240	100.00	100.00	240	ABD31003.1	serine protease SplB	NA	NA
+NA	CP011526.1	1865446	1866150	-	splA	serine protease SplA	plus	VIRULENCE	VIRULENCE	NA	NA	BLASTX	235	235	100.00	99.57	235	ABD31004.1	serine protease SplA	NA	NA
+NA	CP011526.1	1877802	1878782	-	lukD	bi-component leukocidin LukED subunit D	plus	VIRULENCE	VIRULENCE	NA	NA	BLASTX	327	327	100.00	94.50	327	CAA73668.1	bi-component leukocidin LukED subunit D	NA	NA
+NA	CP011526.1	1878787	1879710	-	lukE	bi-component leukocidin LukED subunit E	plus	VIRULENCE	VIRULENCE	NA	NA	BLASTX	308	311	99.04	99.68	308	RCV70079.1	bi-component leukocidin LukED subunit E	NA	NA
+NA	CP011526.1	2026018	2026095	-	hld	delta-hemolysin	plus	VIRULENCE	VIRULENCE	NA	NA	EXACTX	26	26	100.00	100.00	26	AGU62139.1	delta-hemolysin	NA	NA
+NA	CP011526.1	2180667	2182106	-	lmrS	multidrug efflux MFS transporter LmrS	plus	STRESS	BIOCIDE	MACROLIDE/PHENICOL	CHLORAMPHENICOL/ERYTHROMYCIN	EXACTX	480	480	100.00	100.00	480	AAW38464.1	multidrug efflux MFS transporter LmrS	NA	NA
+NA	CP011526.1	2334041	2334457	+	fosB	FosB/FosD family fosfomycin resistance bacillithiol transferase	core	AMR	AMR	FOSFOMYCIN	FOSFOMYCIN	EXACTX	139	139	100.00	100.00	139	WP_000920239.1	FosB/FosD family fosfomycin resistance bacillithiol transferase	NA	NA
+NA	CP011526.1	2423738	2424664	+	hlgA	bi-component gamma-hemolysin HlgAB subunit A	plus	VIRULENCE	VIRULENCE	NA	NA	EXACTX	309	309	100.00	100.00	309	AUU54669.1	bi-component gamma-hemolysin HlgAB subunit A	NA	NA
+NA	CP011526.1	2425235	2426179	+	hlgC	bi-component gamma-hemolysin HlgCB subunit C	plus	VIRULENCE	VIRULENCE	NA	NA	BLASTX	315	315	100.00	97.14	315	CAA57277.1	bi-component gamma-hemolysin HlgCB subunit C	NA	NA
+NA	CP011526.1	2426184	2427158	+	hlgB	bi-component gamma-hemolysin HlgAB/HlgCB subunit B	plus	VIRULENCE	VIRULENCE	NA	NA	BLASTX	325	325	100.00	97.54	325	CAA57278.1	bi-component gamma-hemolysin HlgAB/HlgCB subunit B	NA	NA
+NA	CP011526.1	2504521	2506575	-	sasG	LPXTG-anchored surface protein SasG	plus	VIRULENCE	VIRULENCE	NA	NA	PARTIALX	685	1115	61.43	99.12	685	BAF79363.1	LPXTG-anchored surface protein SasG	NA	NA
+NA	CP011526.1	2666416	2667942	-	aur	zinc metalloproteinase aureolysin	plus	VIRULENCE	VIRULENCE	NA	NA	BLASTX	509	509	100.00	99.21	509	EHO93748.1	zinc metalloproteinase aureolysin	NA	NA
+NA	CP011526.1	2711276	2712325	+	icaC	polysaccharide intercellular adhesin biosynthesis/export protein IcaC	plus	VIRULENCE	VIRULENCE	NA	NA	EXACTX	350	350	100.00	100.00	350	AUU58561.1	polysaccharide intercellular adhesin biosynthesis/export protein IcaC	NA	NA
+NA	CP011527.1	17095	18480	+	mco	multi-copper oxidase Mco	plus	STRESS	METAL	COPPER	COPPER	BLASTX	462	462	100.00	99.35	462	AAQ17236.1	multi-copper oxidase Mco	NA	NA
+NA	CP011527.1	25445	25756	+	arsR	As(III)-sensing metalloregulatory transcriptional repressor ArsR	plus	STRESS	METAL	ARSENIC	ARSENIC	BLASTX	104	104	100.00	99.04	104	AAA25636.1	As(III)-sensing metalloregulatory transcriptional repressor ArsR	NA	NA
+NA	CP011527.1	25759	27045	+	arsB	arsenite efflux transporter membrane subunit ArsB	plus	STRESS	METAL	ARSENIC	ARSENITE	BLASTX	429	429	100.00	99.53	429	AAA25637.1	arsenite efflux transporter membrane subunit ArsB	NA	NA
+NA	CP011527.1	27066	27458	+	arsC	thioredoxin-dependent arsenate reductase	plus	STRESS	METAL	ARSENIC	ARSENATE	EXACTX	131	131	100.00	100.00	131	AAA25638.1	thioredoxin-dependent arsenate reductase	NA	NA
